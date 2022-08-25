@@ -45,8 +45,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 ## Описание  
-Ипользовался React 18.2, **Node v16.14.2**, Typescript, Mobx, Mobx-react-lite, Axios, Bootstrap, данные с https://jsonplaceholder.typicode.com/users
-Во время аторизации имитирую получение JWT токена и записываю его в localStorage. 
+Ипользовался React 18.2, **Node v16.14.2**, Typescript, Mobx, Mobx-react-lite, Axios, Bootstrap, данные с https://jsonplaceholder.typicode.com/users   
+Во время аторизации имитирую получение JWT токена и записываю его в localStorage.   
 #### Функционал:
 -Вывод на экран списка контактов  
 -Редактирование, удаление контактов  
