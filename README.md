@@ -36,8 +36,23 @@
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm i`
+
+### `npm run start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+
+## Описание  
+Ипользовался React 18.2, **Node v16.14.2**, Typescript, Mobx, Mobx-react-lite, Axios, данные с https://jsonplaceholder.typicode.com/users
+Во время аторизации имитирую получение JWT токена и записываю его в localStorage. 
+#### Функционал:
+-Вывод на экран списка контактов 
+-Редактирование, удаление контактов
+-Создание новых контактов
+-Поиск по имени
+
+#### Страницы
+1) Авторизации http://localhost:3000/
+2) Страница контактов http://localhost:3000/contacts
