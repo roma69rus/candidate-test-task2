@@ -33,7 +33,7 @@
 Отправка выполненной работы на проверку  
 Необходимо отправить письмо на почту h.resources@takeoff-staff.ru с темой письма “ФИО Front-end ( FrameworkName )”, в теле письма, необходимо указать ссылку на публичный профиль GitHub/Bitbucket/etc., а также ссылку на ваше резюме с hh.ru.  
 
-
+## Запуск
 In the project directory, you can run:
 
 ### `npm i`
